@@ -1,6 +1,6 @@
 # springbootdemo
 
-##SETUP Instructions
+## SETUP Instructions
 1. In a local directory using git or cmd: git clone "https://github.com/agampreetsingh/springbootdemo"
 2. In your preferred IDE, chose import maven project and select the directory where the files are.
 3. Using MYSQL, create a DB with the name topics_repo
